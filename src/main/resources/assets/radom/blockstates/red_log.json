@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "radom:block/red_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "radom:block/red_log"
+    },
+    "axis=z": {
+      "model": "radom:block/red_log",
+      "x": 90
+    }
+  }
+}

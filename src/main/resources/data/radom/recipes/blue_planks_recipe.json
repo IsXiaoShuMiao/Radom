@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:blue_log"
+    }
+  ],
+  "result": {
+    "item": "radom:blue_planks",
+    "count": 4
+  }
+}

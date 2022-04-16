@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "radom:blocks/deepbluewood_planks",
+    "particle": "radom:blocks/deepbluewood_planks"
+  }
+}

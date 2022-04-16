@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "radom:blue_planks"
+    },
+    "3": {
+      "item": "radom:blue_planks"
+    },
+    "4": {
+      "item": "radom:blue_planks"
+    },
+    "6": {
+      "item": "radom:blue_planks"
+    },
+    "7": {
+      "item": "radom:blue_planks"
+    },
+    "8": {
+      "item": "radom:blue_planks"
+    }
+  },
+  "result": {
+    "item": "radom:blue_stairs",
+    "count": 4
+  }
+}

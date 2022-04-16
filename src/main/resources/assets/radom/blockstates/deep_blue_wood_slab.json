@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "radom:block/deep_blue_wood_slab"
+    },
+    "type=top": {
+      "model": "radom:block/deep_blue_wood_slab_top"
+    },
+    "type=double": {
+      "model": "radom:block/deep_blue_wood_slab_full"
+    }
+  }
+}

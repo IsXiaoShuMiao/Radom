@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "radom:deep_blue_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "radom:deep_blue_wood_button",
+    "count": 1
+  }
+}

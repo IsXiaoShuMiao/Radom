@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="radom"
+version="0.0.7"
+displayName="Radom"
+credits="ShuHan,BingYan"
+displayURL="https://afdian.net/@xiaoshumiao"
+logoFile="logo.png"
+authors="Xioa_SM"
+description='''
+https://github.com/IsXiaoShuMiao/Radom
+'''
+
+[[dependencies.radom]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

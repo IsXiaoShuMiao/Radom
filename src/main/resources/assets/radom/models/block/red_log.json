@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "radom:blocks/red_log_top",
+    "up": "radom:blocks/red_log_top",
+    "north": "radom:blocks/red_log_side",
+    "east": "radom:blocks/red_log_side",
+    "south": "radom:blocks/red_log_side",
+    "west": "radom:blocks/red_log_side",
+    "particle": "radom:blocks/red_log_top"
+  }
+}

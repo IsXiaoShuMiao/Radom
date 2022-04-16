@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "radom:red_log"
+    },
+    "title": {
+      "translate": "advancements.red_gem.title"
+    },
+    "description": {
+      "translate": "advancements.red_gem.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "red_gem": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "radom:red"
+      }
+    }
+  }
+}

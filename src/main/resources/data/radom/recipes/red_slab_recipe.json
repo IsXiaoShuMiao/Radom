@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "radom:red_planks"
+    },
+    "1": {
+      "item": "radom:red_planks"
+    },
+    "2": {
+      "item": "radom:red_planks"
+    }
+  },
+  "result": {
+    "item": "radom:red_slab",
+    "count": 6
+  }
+}

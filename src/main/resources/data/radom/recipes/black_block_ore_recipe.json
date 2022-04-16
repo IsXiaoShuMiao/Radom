@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "radom:black_block"
+    }
+  ],
+  "result": {
+    "item": "radom:black_ingot",
+    "count": 9
+  }
+}

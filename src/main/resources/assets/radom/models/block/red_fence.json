@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "radom:blocks/red_planks",
+    "particle": "radom:blocks/red_planks"
+  }
+}

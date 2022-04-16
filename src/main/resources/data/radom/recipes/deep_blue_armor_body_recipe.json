@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "radom:deep_blue"
+    },
+    "2": {
+      "item": "radom:deep_blue"
+    },
+    "3": {
+      "item": "radom:deep_blue"
+    },
+    "4": {
+      "item": "radom:deep_blue"
+    },
+    "5": {
+      "item": "radom:deep_blue"
+    },
+    "6": {
+      "item": "radom:deep_blue"
+    },
+    "7": {
+      "item": "radom:deep_blue"
+    },
+    "8": {
+      "item": "radom:deep_blue"
+    }
+  },
+  "result": {
+    "item": "radom:deep_blue_armor_chestplate",
+    "count": 1
+  }
+}

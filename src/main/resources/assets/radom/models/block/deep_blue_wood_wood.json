@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "radom:blocks/deepbluewood_log_side",
+    "particle": "radom:blocks/deepbluewood_log_side"
+  }
+}

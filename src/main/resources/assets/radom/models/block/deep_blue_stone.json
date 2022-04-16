@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "radom:blocks/deepbule_stone",
+    "particle": "radom:blocks/deepbule_stone"
+  }
+}

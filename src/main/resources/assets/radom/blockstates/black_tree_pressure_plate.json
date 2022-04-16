@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "radom:block/black_tree_pressure_plate"
+    },
+    "powered=true": {
+      "model": "radom:block/black_tree_pressure_plate_down"
+    }
+  }
+}

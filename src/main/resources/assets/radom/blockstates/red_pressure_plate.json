@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "radom:block/red_pressure_plate"
+    },
+    "powered=true": {
+      "model": "radom:block/red_pressure_plate_down"
+    }
+  }
+}

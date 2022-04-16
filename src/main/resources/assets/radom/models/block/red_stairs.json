@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "radom:blocks/red_planks",
+    "top": "radom:blocks/red_planks",
+    "side": "radom:blocks/red_planks"
+  }
+}

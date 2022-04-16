@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "radom:block/deep_blue_wood_pressure_plate"
+    },
+    "powered=true": {
+      "model": "radom:block/deep_blue_wood_pressure_plate_down"
+    }
+  }
+}

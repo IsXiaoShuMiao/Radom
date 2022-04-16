@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "radom:black_tree_log"
+    },
+    "title": {
+      "translate": "advancements.black_gem.title"
+    },
+    "description": {
+      "translate": "advancements.black_gem.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "black_gem": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "radom:black"
+      }
+    }
+  }
+}

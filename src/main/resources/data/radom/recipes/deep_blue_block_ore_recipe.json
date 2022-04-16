@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "radom:deep_blue_block"
+    }
+  ],
+  "result": {
+    "item": "radom:deep_blue",
+    "count": 9
+  }
+}

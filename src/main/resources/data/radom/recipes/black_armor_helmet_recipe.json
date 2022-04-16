@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "radom:black_ingot"
+    },
+    "1": {
+      "item": "radom:black_ingot"
+    },
+    "2": {
+      "item": "radom:black_ingot"
+    },
+    "3": {
+      "item": "radom:black_ingot"
+    },
+    "5": {
+      "item": "radom:black_ingot"
+    }
+  },
+  "result": {
+    "item": "radom:black_armor_helmet",
+    "count": 1
+  }
+}

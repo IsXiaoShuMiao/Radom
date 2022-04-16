@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 3.5,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "radom:black_ore"
+  },
+  "result": {
+    "item": "radom:black_ingot"
+  }
+}

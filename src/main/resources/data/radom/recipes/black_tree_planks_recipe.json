@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:blacktree_log"
+    }
+  ],
+  "result": {
+    "item": "radom:black_tree_planks",
+    "count": 4
+  }
+}

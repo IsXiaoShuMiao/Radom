@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "radom:red_ingot"
+    },
+    "2": {
+      "item": "radom:red_ingot"
+    },
+    "3": {
+      "item": "radom:red_ingot"
+    },
+    "5": {
+      "item": "radom:red_ingot"
+    }
+  },
+  "result": {
+    "item": "radom:red_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "radom:black_tree_planks"
+    },
+    "1": {
+      "item": "radom:black_tree_planks"
+    },
+    "2": {
+      "item": "radom:black_tree_planks"
+    }
+  },
+  "result": {
+    "item": "radom:black_tree_slab",
+    "count": 6
+  }
+}

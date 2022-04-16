@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "radom:deep_blue_wood_planks"
+    },
+    "1": {
+      "item": "radom:deep_blue_wood_planks"
+    },
+    "2": {
+      "item": "radom:deep_blue_wood_planks"
+    }
+  },
+  "result": {
+    "item": "radom:deep_blue_wood_slab",
+    "count": 6
+  }
+}

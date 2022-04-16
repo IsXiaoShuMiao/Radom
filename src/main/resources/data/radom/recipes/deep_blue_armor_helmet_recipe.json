@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "radom:deep_blue"
+    },
+    "1": {
+      "item": "radom:deep_blue"
+    },
+    "2": {
+      "item": "radom:deep_blue"
+    },
+    "3": {
+      "item": "radom:deep_blue"
+    },
+    "5": {
+      "item": "radom:deep_blue"
+    }
+  },
+  "result": {
+    "item": "radom:deep_blue_armor_helmet",
+    "count": 1
+  }
+}

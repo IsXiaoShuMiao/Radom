@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "radom:blue_log"
+    },
+    "title": {
+      "translate": "advancements.blue_gem.title"
+    },
+    "description": {
+      "translate": "advancements.blue_gem.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "blue_gem": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "radom:blue"
+      }
+    }
+  }
+}

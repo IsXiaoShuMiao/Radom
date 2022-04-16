@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "radom:block/black_tree_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "radom:block/black_tree_wood"
+    },
+    "axis=z": {
+      "model": "radom:block/black_tree_wood",
+      "x": 90
+    }
+  }
+}

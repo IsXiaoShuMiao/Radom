@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:deepbluewood_log"
+    }
+  ],
+  "result": {
+    "item": "radom:deep_blue_wood_planks",
+    "count": 4
+  }
+}

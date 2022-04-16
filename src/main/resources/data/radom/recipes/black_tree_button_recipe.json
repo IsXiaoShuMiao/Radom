@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "radom:black_tree_planks"
+    }
+  ],
+  "result": {
+    "item": "radom:black_tree_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "radom:block/black_tree_slab"
+    },
+    "type=top": {
+      "model": "radom:block/black_tree_slab_top"
+    },
+    "type=double": {
+      "model": "radom:block/black_tree_slab_full"
+    }
+  }
+}

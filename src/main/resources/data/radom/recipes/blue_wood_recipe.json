@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "radom:blue_log"
+    },
+    "1": {
+      "item": "radom:blue_log"
+    },
+    "2": {
+      "item": "radom:blue_log"
+    },
+    "3": {
+      "item": "radom:blue_log"
+    }
+  },
+  "result": {
+    "item": "radom:blue_wood",
+    "count": 3
+  }
+}
