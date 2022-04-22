@@ -1618,6 +1618,14 @@
         "ep": false
       },
       "path": "~/DeepBlue"
+    },
+    {
+      "name": "Unknow",
+      "type": "livingentity",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unknow"
     }
   ],
   "variable_elements": [],
@@ -1638,8 +1646,8 @@
       "biome.radom.red": "Red",
       "block.radom.deep_blue_wood_stairs": "DeepBlueStairs",
       "item.radom.blue_pickaxe": "Blue Pickaxe",
-      "advancements.black_gem.descr": "Go into the Black",
       "block.radom.black_tree_pressure_plate": "BlackTree Pressure Plate",
+      "advancements.black_gem.descr": "Go into the Black",
       "block.radom.blue_leaves": "Blue Leaves",
       "item.radom.red_hoe": "Red Hoe",
       "block.radom.red_fence": "Red Fence",
@@ -1693,6 +1701,7 @@
       "block.radom.black_ore": "Black Ore",
       "block.radom.deep_blue_wood_planks": "DeepBlue Planks",
       "block.radom.black_tree_fence": "BlackTree Fence",
+      "item.radom.unknow_spawn_egg": "Boss_Creeper Spawn Egg",
       "item.radom.black_armor_leggings": "Black Leggings",
       "item.radom.deep_blue_axe": "DeepBlue Axe",
       "block.radom.black_tree_stairs": "BlackTree Stairs",
@@ -1701,6 +1710,7 @@
       "advancements.black_gem.title": "Black",
       "block.radom.deep_blue_wood_wood": "DeepBlue Wood",
       "item.radom.deep_blue_hoe": "DeepBlue Hoe",
+      "entity.radom.unknow": "Boss_Creeper",
       "block.radom.deep_blue_ore": "DeepBlue Ore",
       "block.radom.blue_ore": "Blue Ore",
       "item.radom.deep_blue_armor_chestplate": "DeepBlue Chestplate",
