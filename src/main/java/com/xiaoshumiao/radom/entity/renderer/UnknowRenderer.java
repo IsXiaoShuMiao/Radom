@@ -10,7 +10,7 @@ import net.minecraft.util.ResourceLocation;
 import net.minecraft.entity.Entity;
 import net.minecraft.client.renderer.texture.OverlayTexture;
 import net.minecraft.client.renderer.entity.model.EntityModel;
-import net.minecraft.client.renderer.entity.model.CowModel;
+import net.minecraft.client.renderer.entity.model.CreeperModel;
 import net.minecraft.client.renderer.entity.layers.LayerRenderer;
 import net.minecraft.client.renderer.entity.SpriteRenderer;
 import net.minecraft.client.renderer.entity.MobRenderer;
@@ -31,7 +31,7 @@ public class UnknowRenderer {
 		@OnlyIn(Dist.CLIENT)
 		public void registerModels(ModelRegistryEvent event) {
 			RenderingRegistry.registerEntityRenderingHandler(UnknowEntity.entity,
-					renderManager -> new MobRenderer(renderManager, new CowModel(), 0.5f) {
+					renderManager -> new MobRenderer(renderManager, new CreeperModel(), 0.5f) {
 						{
 							this.addLayer(new GlowingLayer<>(this));
 						}
