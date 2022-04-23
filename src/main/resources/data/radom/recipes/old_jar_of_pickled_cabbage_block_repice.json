@@ -1,0 +1,37 @@
+{
+  "group": "old_jar_of_pickled_cabbage_block_repice",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "radom:old_jar_of_pickled_cabbage_bag"
+    },
+    {
+      "item": "radom:old_jar_of_pickled_cabbage_bag"
+    },
+    {
+      "item": "radom:old_jar_of_pickled_cabbage_bag"
+    },
+    {
+      "item": "radom:old_jar_of_pickled_cabbage_bag"
+    },
+    {
+      "item": "radom:old_jar_of_pickled_cabbage_bag"
+    },
+    {
+      "item": "radom:old_jar_of_pickled_cabbage_bag"
+    },
+    {
+      "item": "radom:old_jar_of_pickled_cabbage_bag"
+    },
+    {
+      "item": "radom:old_jar_of_pickled_cabbage_bag"
+    },
+    {
+      "item": "radom:old_jar_of_pickled_cabbage_bag"
+    }
+  ],
+  "result": {
+    "item": "radom:old_jar_of_pickled_cabbage_block",
+    "count": 1
+  }
+}

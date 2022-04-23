@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "old_jar_of_pickled_cabbage_block_repice",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:OldJarOfPickledCabbageBag"
+      },
+      {
+        "value": "CUSTOM:OldJarOfPickledCabbageBag"
+      },
+      {
+        "value": "CUSTOM:OldJarOfPickledCabbageBag"
+      },
+      {
+        "value": "CUSTOM:OldJarOfPickledCabbageBag"
+      },
+      {
+        "value": "CUSTOM:OldJarOfPickledCabbageBag"
+      },
+      {
+        "value": "CUSTOM:OldJarOfPickledCabbageBag"
+      },
+      {
+        "value": "CUSTOM:OldJarOfPickledCabbageBag"
+      },
+      {
+        "value": "CUSTOM:OldJarOfPickledCabbageBag"
+      },
+      {
+        "value": "CUSTOM:OldJarOfPickledCabbageBag"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OldJarOfPickledCabbageBlock"
+    },
+    "name": "old_jar_of_pickled_cabbage_block_repice",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "radom:blocks/hay_block",
+    "particle": "radom:blocks/hay_block"
+  }
+}

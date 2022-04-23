@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "bread",
+    "customModelName": "Normal",
+    "name": "Old Jar Of Pickled Cabbage Bag",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Radom"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 2,
+    "saturation": 0.2,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "OldJarOfPickledCabbageBagDangShiWuBeiChiShi"
+    }
+  }
+}

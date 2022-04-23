@@ -1,0 +1,19 @@
+{
+  "group": "old_jar_of_pickled_cabbage_bag_repice",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "radom:old_jar_of_pickled_cabbage"
+    },
+    {
+      "item": "radom:old_jar_of_pickled_cabbage"
+    },
+    {
+      "item": "radom:old_jar_of_pickled_cabbage"
+    }
+  ],
+  "result": {
+    "item": "radom:old_jar_of_pickled_cabbage_bag",
+    "count": 1
+  }
+}
